@@ -2,4 +2,4 @@
 Remote repo to help test repo skills 
 
 
-[I am learning this on lynda.com]
+[I am learning this on lynda.com](https://lynda.com)
